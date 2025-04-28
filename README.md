@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksii Omelchenko</h1>
 <h3 align="center">A passionate student at the Kyiv School of Economics (KSE), majoring in Computer Science with a specialization in Artificial Intelligence. My journey in tech began with a fascination for the endless possibilities that AI and Machine Learning offer. This curiosity has since evolved into a dedicated pursuit of knowledge in these fields.</h3>
 
-- 🔭 I’m currently working on **KSE's projects**
+- 🔭 I’m currently working at **cabina.ai** as Data Scientist
 
 
 
